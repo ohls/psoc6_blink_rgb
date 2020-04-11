@@ -1,0 +1,11 @@
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\Hello World.cydsn\Hello World.cyprj|7137ce43-ad87-46b8-b3e5-562d04bdc136
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|dd245c4f-2db1-4fa8-b293-ccdc8fa83772
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|e524fd9b-9091-4dc7-ae1c-33d9e146c355
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|08fd42db-801f-4bb4-91dc-74abd292b324
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|05afc928-ab84-4b4a-8cd7-693536441943
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|451cb724-7a54-40bf-8117-f66b09a41dd0
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\LED.cydsn\LED.cyprj|cc6d2410-ae96-495d-b307-8128a393fdcf
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\UART.cydsn\UART.cyprj|47768e09-7c6b-48a4-b9ed-73ef998a67c2
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\Capsense.cydsn\Capsense.cyprj|2fe76278-64f6-4883-9291-cf1a822991e3
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\blink.cydsn\blink.cyprj|7f1abbc8-2cf8-4bfa-acf1-ea4073c00b64
+C:\Users\SOHL.CYSEMI\Documents\PSoC Creator\Learn\embrace_change.cydsn\embrace_change.cyprj|75981191-ee47-4155-bf2a-f1e99ee124ff
